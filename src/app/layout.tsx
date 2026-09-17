@@ -7,7 +7,7 @@ const siteUrl =
   "https://clash-of-editors.vercel.app";
 
 const ogImage =
-  "https://res.cloudinary.com/rf9d62ct/image/upload/f_auto,q_auto/Untitled_Project_Comp_1_2026-09-17_13.19.35";
+  "https://res.cloudinary.com/rf9d62ct/image/upload/f_auto,q_auto/coe";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
